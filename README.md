@@ -1,2 +1,2 @@
 hey
-some random text.
+some random text!
